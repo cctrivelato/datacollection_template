@@ -1,12 +1,10 @@
 // Caique Trivelato 
 // 11/5/2024
 
-#include <ESP8266HTTPClient.h>
-#include <ESP8266WiFi.h>
+/** #include library for wifi connection
 
-
-/** All of these has to be set properly for connection
-const char* ssid = "wifi";
+/** All of these have to be set properly for connection
+const char* ssid = "wifi_name";
 const char* password = "*******";
 const char* server = "ServerIP/directory_path/publishable.php";
 */

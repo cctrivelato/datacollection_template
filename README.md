@@ -15,6 +15,6 @@ language:
         method calls, and variables necessary to throw
         data info from code to API, and the other file
         is a php API (it simply means that this code 
-        translates variable' values to database format
-        and performs a query to insert or select data from/to
-        database).
+        translates variable' values from cpp file to 
+        database format and performs a query to insert
+        or select data from/to database).

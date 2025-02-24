@@ -16,5 +16,5 @@ language:
         data info from code to API, and the other file
         is a php API (it simply means that this code 
         translates variable' values to database format
-        and performs a query to insert or select data from/to
-        database).
+        and performs a query to insert to or select data from
+        a database).
